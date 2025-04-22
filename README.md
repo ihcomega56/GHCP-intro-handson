@@ -16,7 +16,7 @@ GitHub Copilotをこれから活用したい方向けのハンズオンです。
 
 ### 上記手順が上手くいかなかった場合
 
-1. 最新または会社指定バージョンの [Visual Studio Code](https://code.visualstudio.com/download) をダウンロードしてください。
+1. 最新（または会社指定バージョンがあればそちらも可） [Visual Studio Code](https://code.visualstudio.com/download) をダウンロードしてください。
 1. 以降の手順はハンズオン内で説明します。
 
 ## 終了時の作業： Codespacesのインスタンス停止・削除
