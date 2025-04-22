@@ -1,10 +1,10 @@
-# 2025-04-GHCP-handson
+# GHCP-intro-handson2504
 
 GitHub Copilotをこれから活用したい方向けのハンズオンです。
 
 ## 事前準備
 
-1. [本リポジトリ](https://github.com/ihcomega56/2025-04-GHCP-handson) にアクセスします。
+1. [本リポジトリ](https://github.com/ihcomega56/GHCP-intro-handson2504) にアクセスします。
 1. 右上の **'Code' ボタンをクリック** します。
     ![readme-1](images/readme-1.png)
 1. **'Codespaces' タブをクリック** します。
