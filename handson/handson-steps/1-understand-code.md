@@ -5,9 +5,9 @@
 ## 手順
 
 1. [ソースコードのリポジトリ](https://github.com/ihcomega56/GHCP-intro-handson2504)にアクセスします。
-1. 画面右上、サーチウィンドウ横のCopilotアイコンをクリックします。
+1. 画面右上、サーチウィンドウ横の Copilot アイコンをクリックします。
 1. チャット入力欄にコンテキストとしてリポジトリが追加されていることを確認し、アプリケーションについて質問をします。
-    ![copilot-attatchment](image.png)
+    ![copilot-attatchment](images/1-copilot-attatchment.png)
 
 ### プロンプト例
 
@@ -69,6 +69,6 @@ public class HandsonApplication {
 - ユニットテストを追加するとしたら、Controller, Model, Serviceのうちどこから着手すべきですか？
 - その他、思いついた質問を何でも自由に！
 
-## 皆で共有
+## 余裕がある方向けの追加ワーク
 
-余裕があれば、投げかけてみた質問や回答をTeamsで簡単に共有してください。
+1. 投げかけてみた質問や回答をTeamsで簡単に共有してください。

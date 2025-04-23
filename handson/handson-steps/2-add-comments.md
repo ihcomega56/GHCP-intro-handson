@@ -20,3 +20,9 @@ Visual Studio Code上で、ソースコードコメントを付与してみま�
     - 初めてソースコードを見ても分かりやすいよう、このクラスにコメントを付与したいです。どのような内容が良いですか？
     - このクラスにJavaDocコメントを日本語で付与してください。
 1. Copilot Chatの回答をファイルに反映させます。
+
+## 余裕がある方向けの追加ワーク
+
+1. Copilot を使ってコミットコメントを書き、差分をGitにコミットします（専用ブランチの作成をオススメします）。Gitタブで✨️アイコンをクリックするとコミットコメントが自動生成されます。
+    ![git-gommit](images/2-git-commit.png)
+1. アプリケーションを実行します。手順は[アプリケーションのREADME](https://github.com/ihcomega56/GHCP-intro-handson2504/blob/main/handson/.gitattributes)にあります。
