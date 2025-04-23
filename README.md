@@ -1,6 +1,7 @@
 # GHCP-intro-handson2504
 
 GitHub Copilotをこれから活用したい方向けのハンズオンです。
+ハンズオン用資料とソースコードは[handsonディレクトリ](https://github.com/ihcomega56/GHCP-intro-handson2504/tree/main/handson)内にあります。
 
 ## 事前準備
 
