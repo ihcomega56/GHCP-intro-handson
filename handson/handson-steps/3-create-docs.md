@@ -9,7 +9,7 @@
     - クラス図を作成してください。
     - `matchesSearchCriteria` メソッドのシーケンス図を作成してください。
 1. Copilot Chat の回答を`docs/diagrams.md`に反映させます。
-1. 右上の`Open Preview to the Side`![mermaid-preview](images/3-mermaid-preview.png)ボタンをクリックします。 :bulb: 本リポジトリの　Codespaces では Dev Container を使って予め Mermaid 記法のプレビューが出来る拡張機能を入れています。他の環境では同様の拡張機能のインストールが必要です。
+1. 【Mermaid記法の確認ができる環境限定】右上の`Open Preview to the Side`![mermaid-preview](images/3-mermaid-preview.png)ボタンをクリックします。 :bulb: 本リポジトリの　Codespaces では Dev Container を使って予め Mermaid 記法のプレビューが出来る拡張機能を入れています。他の環境では同様の拡張機能のインストールが必要です。
 
 ## 余裕がある方向けの追加ワーク
 
